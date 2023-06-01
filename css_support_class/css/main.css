@@ -39,8 +39,9 @@ header li a {
 }
 
 .articles article img {
-    /* height: 180px; */
+    height: 300px;
     width: 100%;
+    object-fit: cover;
 }
 
 .articles article{
